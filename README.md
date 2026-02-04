@@ -1,1 +1,12 @@
 # quize-application
+COMPANY- CODTECH IT SLOUTION
+NAME-KARUNA NIKALE	
+INTERN ID-CTIS2202
+DOMAIN-FRONTEND DEVLOPMENT
+DURATION-4 WEEKS
+MENTOR-NEELA SANTOSH
+
+
+
+OUTPUT-
+<img width="1344" height="670" alt="Image" src="https://github.com/user-attachments/assets/03685cf5-971e-4820-9697-8080c1ec693c" />
